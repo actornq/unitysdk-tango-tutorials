@@ -1,6 +1,9 @@
 # unitysdk-tango-tutorials
 A collection of tutorials to learn the unity sdk for project tango
 
+Get Setup with Unity and the latest files.
+https://developers.google.com/tango/apis/unity/
+
 These resources are direct and simple introductions to the Google Tango Unity SDK
 
 A good introduction video series from the Google Tango Developers Youtube
